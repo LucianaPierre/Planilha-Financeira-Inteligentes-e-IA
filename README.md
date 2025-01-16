@@ -1,5 +1,6 @@
 # Planilha-Financeira-Inteligentes-e-IA
 Desafio da Dio - Replicar o projeto prático, criando um Dashboard a partir de uma base de dados fornecida pela DIO e experimentar a análise feita pela IA.
+
 Arquivo de banco de dados:
 [Base_Dados.xlsx](https://github.com/user-attachments/files/18440985/Base_Dados.xlsx)
 
